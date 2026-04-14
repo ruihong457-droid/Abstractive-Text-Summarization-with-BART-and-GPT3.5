@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
-A comparative study of cloud‑based (GPT‑3.5) and locally deployed (BART) models for automatically summarizing YouTube lecture transcripts. This project was completed as part of the **CDS547 – Introduction to Large Language Models** course at Lingnan University.
+A comparative study of cloud‑based (GPT‑3.5) and locally deployed (BART) models for automatically summarizing YouTube lecture transcripts.
 
 ##  Overview
 
@@ -22,9 +22,13 @@ Hallucination (lexical novelty)
 
 ## Features
 🎥 Extract transcripts from YouTube videos
+
 🤖 Generate summaries using GPT-3.5 (API)
+
 💻 Run BART locally for offline summarization
+
 📊 Compare model outputs quantitatively and qualitatively
+
 🧪 Compute hallucination rate automatically
 
 ##  Repository Structure
