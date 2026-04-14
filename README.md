@@ -32,13 +32,13 @@ Hallucination (lexical novelty)
 🧪 Compute hallucination rate automatically
 
 ##  Repository Structure
-.
-├── eh20250305.ipynb        # Main notebook (core implementation)..
-├── outputs/..
-│   ├── gpt_output.txt       # GPT-3.5 output..
-│   ├── bart_output.txt      # BART output..
-│   ├── transcript.txt  ..     
-├── README.md..
+.  
+├── eh20250305.ipynb        # Main notebook (core implementation)  
+├── outputs/  
+│   ├── gpt_output.txt       # GPT-3.5 output  
+│   ├── bart_output.txt      # BART output  
+│   ├── transcript.txt  
+├── README.md  
 
 ## How to Run
 ### 1. Install Dependencies
