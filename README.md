@@ -9,11 +9,11 @@ A comparative study of cloud‑based (GPT‑3.5) and locally deployed (BART) mod
 
 This project implements an end-to-end pipeline for summarizing YouTube lecture transcripts using Large Language Models (LLMs).
 
-We compare two different approaches:
+We compare two different approaches:  
 Cloud-based model: GPT-3.5-Turbo (via API)
 Local model: BART-large-CNN (Hugging Face Transformers)
 
-The goal is to evaluate their performance in terms of:
+The goal is to evaluate their performance in terms of:  
 Coherence
 Information retention
 Hallucination (lexical novelty)
@@ -39,16 +39,16 @@ Hallucination (lexical novelty)
 pip install transformers torch youtube-transcript-api openai
 
 ### 2. Run the Notebook
-Open and run:
+Open and run:  
 eh20250305.ipynb
 
 ### 3. GPT API Setup (Optional)
-If using GPT-3.5:
+If using GPT-3.5:  
 openai.api_key = "YOUR_API_KEY"
 
 ### 4.Run BART Locally
-Make sure you have:
-GPU (recommended)
+Make sure you have:  
+GPU (recommended)  
 PyTorch installed
 
 ## Example Results
