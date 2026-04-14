@@ -21,15 +21,11 @@ Information retention
 Hallucination (lexical novelty)
 
 ## Features
-🎥 Extract transcripts from YouTube videos
-
-🤖 Generate summaries using GPT-3.5 (API)
-
-💻 Run BART locally for offline summarization
-
-📊 Compare model outputs quantitatively and qualitatively
-
-🧪 Compute hallucination rate automatically
+🎥 Extract transcripts from YouTube videos  
+🤖 Generate summaries using GPT-3.5 (API)  
+💻 Run BART locally for offline summarization  
+📊 Compare model outputs quantitatively and qualitatively  
+🧪 Compute hallucination rate automatically  
 
 ##  Repository Structure
 .  
