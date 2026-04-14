@@ -58,18 +58,18 @@ PyTorch installed
 | BART    | 4.0       | 10%            | 0%            |
 
 ## Key Findings
-GPT-3.5 produces more complete and structured summaries
-BART is fast and privacy-friendly, but limited by input length
-"Hallucination rate" based on n-gram overlap is misleading
-It measures novelty, not factual correctness
+GPT-3.5 produces more complete and structured summaries  
+BART is fast and privacy-friendly, but limited by input length  
+"Hallucination rate" based on n-gram overlap is misleading  
+It measures novelty, not factual correctness  
 
 ## Limitations
-Only one video tested
-BART limited to 1024 tokens
-Hallucination metric is purely lexical
+Only one video tested  
+BART limited to 1024 tokens  
+Hallucination metric is purely lexical  
 
 ## Future Work
-Implement chunking (Map-Reduce summarization)
-Use NLI-based factuality evaluation
-Test on multiple videos
-Fine-tune BART for lecture-style data
+Implement chunking (Map-Reduce summarization)  
+Use NLI-based factuality evaluation  
+Test on multiple videos  
+Fine-tune BART for lecture-style data  
