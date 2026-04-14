@@ -10,12 +10,10 @@ A comparative study of cloud‑based (GPT‑3.5) and locally deployed (BART) mod
 This project implements an end-to-end pipeline for summarizing YouTube lecture transcripts using Large Language Models (LLMs).
 
 We compare two different approaches:
-
 Cloud-based model: GPT-3.5-Turbo (via API)
 Local model: BART-large-CNN (Hugging Face Transformers)
 
 The goal is to evaluate their performance in terms of:
-
 Coherence
 Information retention
 Hallucination (lexical novelty)
